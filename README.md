@@ -6,3 +6,6 @@ Ancestor's Discord - Ancestor#4476
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/CoolChurro/lt2darkmode/main/source'))()
 ```
+
+## Developer
+- [Ancestor#4476](https://github.com/FindFirstAncestor)
