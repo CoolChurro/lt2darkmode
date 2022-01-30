@@ -1,3 +1,5 @@
+--Script created by Ancestor NOT ME
+--Ancestor's Discord-Ancestor#4476
 local functions={};
 
 functions.uiMode=function(mode)   
